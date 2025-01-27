@@ -25,6 +25,6 @@ Este projeto é uma calculadora funcional que permite realizar operações matem
 Para utilizar a calculadora, siga os passos abaixo:
 
 1. Clone o repositório:
-   ```bash
-  https://github.com/Ester-borba/Calculadora.git
+
+  # https://github.com/Ester-borba/Calculadora.git
 
